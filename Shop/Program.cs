@@ -1,8 +1,3 @@
-using ClassLibraryAlex;
-
-Helper myhelper = new Helper();
-myhelper.Print();
-
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
